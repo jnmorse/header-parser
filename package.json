@@ -1,0 +1,32 @@
+{
+  "name": "header-parser",
+  "version": "0.0.1",
+  "description": "This projects goal is to build an app similar to [this one][1], and is a project for [Free Code Camp][2].",
+  "main": "index.js",
+  "engine": {
+    "node": "5.9.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnmorse/header-parser.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "express",
+    "nodejs",
+    "microservice",
+    "header"
+  ],
+  "author": "Joseph Morse <tamed.lionheart@gmail.com> (https://github.com/jnmorse)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnmorse/header-parser/issues"
+  },
+  "homepage": "https://github.com/jnmorse/header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
