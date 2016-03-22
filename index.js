@@ -7,5 +7,5 @@ app.listen(port, function(err) {
     console.error(err);
   }
 
-  stdout.write('Listening on port ' + port);
+  stdout.write('Listening on port ' + port + '\n\n');
 });
